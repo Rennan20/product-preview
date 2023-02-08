@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-review-challenge-TiHmQ0GTlm)
+- Live Site URL: (https://rennan20.github.io/product-preview/)
 
 ### Built with
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Rennan Silva](https://github.com/Rennan20)
+- Website - [Rennan Silva](https://rennan20.github.io/meu-portfolio/)
